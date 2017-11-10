@@ -2,7 +2,9 @@
 
 Used:
 mongoDb
-Handlebarsexpress
+Handlebar
+sexpress
 others.
+Heroku Link: https://stark-basin-19413.herokuapp.com/users/register
 
 
